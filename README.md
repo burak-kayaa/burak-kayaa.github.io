@@ -69,22 +69,17 @@ At Alpplas Industrial Investments Inc., I completed an internship focused on TÜ
 
 ---
 
-## Skills
+## Languages
 
-### Python
-- Proficient in Python for data analysis, machine learning, and general-purpose programming.
+- **Turkish:** Native
+- **English:** Advanced
 
-### C++
-- Strong skills in C++ with a focus on object-oriented programming.
+---
 
-### C
-- Proficient in C programming, demonstrated through various projects.
+## Contact
 
-### SQL
-- Experience with SQL for database management and querying.
-
-### Git
-- Proficient in using Git for version control and collaborative software development.
-
-### Linux
-- Comfortable working with Linux environments and command-line interfaces.
+- LinkedIn: [Talha Demir](https://www.linkedin.com/in/talhadmr)
+- GitHub: [Talhadmr](https://github.com/Talhadmr)
+- Kaggle: [Talha Demir](https://www.kaggle.com/talhademirr)
+- Email: [demirtalha093@gmail.com](mailto:demirtalha093@gmail.com)
+- Phone: +90 546 265 9796
