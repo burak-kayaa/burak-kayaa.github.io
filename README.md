@@ -1,6 +1,6 @@
-# Talha Ahmed
+# Talha Demir
 
-Hello there! I'm Talha Ahmed, a 4th-year Mechatronics Engineering student at Nişantaşı University. Additionally, I am pursuing a degree in Software Engineering at Ecole 42 Istanbul, with a keen interest in the field of Data Science.
+Hello there! I'm Talha Demir, a 4th-year Mechatronics Engineering student at Nişantaşı University. Additionally, I am pursuing a degree in Software Engineering at Ecole 42 Istanbul, with a keen interest in the field of Data Science.
 
 ## Education
 
@@ -22,7 +22,7 @@ In addition to my core engineering studies, I have a deep interest in Data Scien
 
 ## Work Experience
 
-### ArVis Teknology - Artificial Intelligence Research and Development Intern
+### ArVis Teknoloji - Artificial Intelligence Research and Development Intern
 During my internship at ArVis Teknoloji, I served as an Artificial Intelligence Research and Development Intern. In this role, I attended presentations from esteemed professors at various universities, participated in training sessions on AI models, and collaborated with my team to develop our own project.
 
 ### Alpplas Industrial Investments Inc. - TÜBİTAK 2209-B Intern
@@ -31,24 +31,51 @@ At Alpplas Industrial Investments Inc., I completed an internship focused on TÜ
 ## Projects
 
 ### Teknofest 2022-2023 - Agricultural Unmanned Ground Vehicle
-I led a team in the Teknofest 2022-2023 Agricultural Unmanned Ground Vehicle competition, where we reached the finals among 185 teams. In this project, I focused on ROS for mapping and image processing. Being in the top 15 finalists was a rewarding experience, and it showcased my dedication to robotics and autonomous systems.
+- Led a team in the Teknofest 2022-2023 Agricultural Unmanned Ground Vehicle competition, reaching the finals among 185 teams.
+- Focused on ROS for mapping and image processing.
+- Achieved a top 15 finalist position, showcasing dedication to robotics and autonomous systems.
 
 ### Ecole 42 - Minishell Project
-At Ecole 42, I undertook the Minishell project, where I recreated a Bash shell in the C programming language. This project not only enhanced my understanding of system programming but also delved into the intricacies of shell design. I successfully implemented core functionalities, handling commands, and managing processes.
+- **Description:**
+  - Undertook the Minishell project at Ecole 42, recreating a Bash shell in the C programming language.
+  - Enhanced understanding of system programming and delved into the intricacies of shell design.
+  - Successfully implemented core functionalities, handling commands, and managing processes.
+
+### Ecole 42 - IRC Project
+- Developed an IRC (Internet Relay Chat) project as part of my coursework at Ecole 42.
+- This project involved creating an IRC server example that manages channels and users in a messaging program.
+- Implemented in C++ with an object-oriented approach.
 
 ## Certificates
-<img src="img/miuul.png" alt="Certificate 1" width="400"/>
-dklfsfsdf
-<img src="img/aygaz_hub_page-0001.jpg" alt="Certificate 1" width="400"/>
-dslfdf
-<img src="img/42_page-0001.jpg" alt="Certificate 1" width="400"/>
-sdfkldsf
-<img src="img/tens_page-0001.jpg" alt="Certificate 1" width="400"/>
-dsfşldf
 
-![Certificate 1](link-to-certificate-1)
-![Certificate 2](link-to-certificate-2)
-![Certificate 3](link-to-certificate-3)
-![Certificate 4](link-to-certificate-4)
-![Certificate 5](link-to-certificate-5)
-![Certificate 6](link-to-certificate-6)
+### Machine Learning Summer Camp - MIUUL Platform
+[![MIUUL Platform Machine Learning Summer Camp](img/miuul.png)](miuul-certificate-link)
+- Completed the MIUUL Platform's Machine Learning Summer Camp, receiving training from Vahit Keskin on feature engineering, machine learning, and SQL. Successfully completed assignments and projects during the camp.
+
+### Data Analysis Bootcamp - Aygaz Global AI Hub
+[![Data Analysis Bootcamp](img/aygaz_hub_page-0001.jpg)](aygaz-certificate-link)
+- Participated in the Aygaz Global AI Hub Data Analysis Bootcamp, collaborating with instructors from Global AI Hub and Aygaz on various training sessions and projects. Gained hands-on experience in data analysis and learned best practices in the field.
+
+### Python with TensorFlow - BTK Akademi
+[![Python with TensorFlow](img/tens_page-0001.jpg)](python-tensorflow-certificate-link)
+- Successfully completed the Python with TensorFlow course on BTK Akademi, gaining proficiency in building and training machine learning models using TensorFlow and Python.
+
+## Skills
+
+### Python
+- Proficient in Python for data analysis, machine learning, and general-purpose programming.
+
+### C++
+- Strong skills in C++ with a focus on object-oriented programming.
+
+### C
+- Proficient in C programming, demonstrated through various projects.
+
+### SQL
+- Experience with SQL for database management and querying.
+
+### Git
+- Proficient in using Git for version control and collaborative software development.
+
+### Linux
+- Comfortable working with Linux environments and command-line interfaces.
