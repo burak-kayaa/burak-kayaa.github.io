@@ -37,6 +37,14 @@ I led a team in the Teknofest 2022-2023 Agricultural Unmanned Ground Vehicle com
 At Ecole 42, I undertook the Minishell project, where I recreated a Bash shell in the C programming language. This project not only enhanced my understanding of system programming but also delved into the intricacies of shell design. I successfully implemented core functionalities, handling commands, and managing processes.
 
 ## Certificates
+<img src="img/miuul.png" alt="Certificate 1" width="400"/>
+dklfsfsdf
+<img src="img/aygaz_hub_page-0001.jpg" alt="Certificate 1" width="400"/>
+dslfdf
+<img src="img/42_page-0001.jpg" alt="Certificate 1" width="400"/>
+sdfkldsf
+<img src="img/tens_page-0001.jpg" alt="Certificate 1" width="400"/>
+dsfşldf
 
 ![Certificate 1](link-to-certificate-1)
 ![Certificate 2](link-to-certificate-2)
