@@ -27,7 +27,7 @@ In addition to my core engineering studies, I have a deep interest in Data Scien
 ## Work Experience
 
 ### ArVis Teknology - AI Research and Development Intern
-During my internship at ArVis Teknoloji, I served as an Artificial Intelligence Research and Development Intern. In this role, I attended presentations from esteemed professors at various universities, participated in training sessions on AI models, and collaborated with my team to develop our own project.
+During my internship at ArVis Teknology, I served as an Artificial Intelligence Research and Development Intern. In this role, I attended presentations from esteemed professors at various universities, participated in training sessions on AI models, and collaborated with my team to develop our own project.
 
 ### Alpplas Industrial Investments Inc. - TÜBİTAK 2209-B Intern
 At Alpplas Industrial Investments Inc., I completed an internship focused on TÜBİTAK 2209-B university-industry collaboration. Here, I was involved in writing software for an industrial-type machine and worked extensively on microprocessors.
@@ -36,7 +36,7 @@ At Alpplas Industrial Investments Inc., I completed an internship focused on TÜ
 
 ## Projects
 
-### Teknofest 2022-2023 - Agri Unmanned Ground Vehicle
+### Teknofest 2022-2023 - Agricultural Unmanned Ground Vehicle
 - Led a team in the Teknofest 2022-2023 Agricultural Unmanned Ground Vehicle competition, reaching the finals among 185 teams.
 - Focused on ROS for mapping and image processing.
 - Achieved a top 15 finalist position, showcasing dedication to robotics and autonomous systems.
