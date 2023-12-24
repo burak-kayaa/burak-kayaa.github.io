@@ -76,7 +76,7 @@ At Alpplas Industrial Investments Inc., I completed an internship focused on TÜ
 - **English:** Advanced
 
 ---
-##Articles
+## Articles
 
 [Medium](https://medium.com/@demirtalha093)
 
