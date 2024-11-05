@@ -11,9 +11,9 @@ Hello there! 👋 I'm Burak, a 3rd-year Mechatronics Engineering student at Marm
 
 ## Education
 
-- **Nişantaşı University**
+- **Marmara University**
   - *Degree:* Mechatronics Engineering
-  - *Year:* 4th
+  - *Year:* 3th
 
 - **Ecole 42 Istanbul**
   - *Program:* Software Engineering
@@ -31,11 +31,9 @@ In addition to my core engineering studies, I have a deep interest in Data Scien
 
 ## Work Experience
 
-### ArVis Teknology - AI Research and Development Intern
-During my internship at ArVis Teknology, I served as an Artificial Intelligence Research and Development Intern. In this role, I attended presentations from esteemed professors at various universities, participated in training sessions on AI models, and collaborated with my team to develop our own project.
+### [TODO] Add bearanalytica
 
-### Alpplas Industrial Investments Inc. - TÜBİTAK 2209-B Intern
-At Alpplas Industrial Investments Inc., I completed an internship focused on TÜBİTAK 2209-B university-industry collaboration. Here, I was involved in writing software for an industrial-type machine and worked extensively on microprocessors.
+### [TODO] Add Ecole 42 tutor team
 
 ---
 
@@ -51,26 +49,22 @@ At Alpplas Industrial Investments Inc., I completed an internship focused on TÜ
 - Enhanced understanding of system programming and delved into the intricacies of shell design.
 - Successfully implemented core functionalities, handling commands, and managing processes.
 
-### Ecole 42 - IRC Project
-- Developed an IRC (Internet Relay Chat) project as part of my coursework at Ecole 42.
-- This project involved creating an IRC server example that manages channels and users in a messaging program.
-- Implemented in C++ with an object-oriented approach.
+### [TODO] Add webserv
+
+### [TODO] Add transcendence
+
+### [TODO] Addd TeknoFest unmannedn underwater
+
+### [TODO] Add DiagnosX
 
 ---
 
 ## Certificates
 
-### ML Summer Camp - MIUUL Platform
-![ML Summer Camp](img/miuul.png)
-- Completed the MIUUL Platform's Machine Learning Summer Camp, receiving training from Vahit Keskin on feature engineering, machine learning, and SQL. Successfully completed assignments and projects during the camp.
+### [TODO] ADD HepsiBurada
 
-### Data Analysis Bootcamp - Aygaz Global AI Hub
-![Data Analysis Bootcamp](img/aygaz_hub_page-0001.jpg)
-- Participated in the Aygaz Global AI Hub Data Analysis Bootcamp, collaborating with instructors from Global AI Hub and Aygaz on various training sessions and projects. Gained hands-on experience in data analysis and learned best practices in the field.
+### [TODO] ADD btk
 
-### Python with TensorFlow - BTK Akademi
-![Python with TensorFlow](img/tens_page-0001.jpg)
-- Successfully completed the Python with TensorFlow course on BTK Akademi, gaining proficiency in building and training machine learning models using TensorFlow and Python.
 
 ---
 
@@ -81,16 +75,10 @@ At Alpplas Industrial Investments Inc., I completed an internship focused on TÜ
 
 ---
 
-## Articles
-
-[Medium](https://medium.com/@demirtalha093)
-
----
-
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/talhadmr)
-- [GitHub](https://github.com/Talhadmr)
-- [Kaggle](https://www.kaggle.com/talhademirr)
-- Email: [demirtalha093@gmail.com](mailto:demirtalha093@gmail.com)
-- Phone: +90 546 265 9796
+- [LinkedIn](https://www.linkedin.com/in/burak-kaya-bk19)
+- [GitHub](https://github.com/burak-kayaa)
+- [Kaggle](https://www.kaggle.com/burkaya19)
+- Email: [burakkaya_2004@hotmail.com](mailto:burakkaya_2004@hotmail.com)
+- Phone: +90 539 309 2485
