@@ -1,6 +1,6 @@
 # Talha Demir
 
-Hello there! 👋 I'm Talha, a 4th-year Mechatronics Engineering student at Nişantaşı University. Additionally, I am pursuing a degree in Software Engineering at Ecole 42 Istanbul, with a keen interest in the field of Data Science. This is my portfolio.
+Hello there! 👋 I'm Talha, a 3th-year Mechatronics Engineering student at Maramara University. Additionally, I am pursuing a degree in Software Engineering at Ecole 42 Istanbul, with a keen interest in the field of Data Science. This is my portfolio.
 
 ---
 
