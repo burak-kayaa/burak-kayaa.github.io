@@ -81,4 +81,3 @@ In addition to my core engineering studies, I have a deep interest in Data Scien
 - [GitHub](https://github.com/burak-kayaa)
 - [Kaggle](https://www.kaggle.com/burkaya19)
 - Email: [burakkaya_2004@hotmail.com](mailto:burakkaya_2004@hotmail.com)
-- Phone: +90 539 309 2485
